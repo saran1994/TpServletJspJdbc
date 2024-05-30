@@ -1,0 +1,4 @@
+com\kalanso\Contact.class
+com\kalanso\ContactServlet.class
+com\kalanso\ContactDAO.class
+com\kalanso\DatabaseUtil.class
