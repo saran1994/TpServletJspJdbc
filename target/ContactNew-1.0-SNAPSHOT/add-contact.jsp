@@ -20,7 +20,7 @@
             <div class="heading-wrap">
                 <h2>Bienvenue, Admin</h2>
                 <button class="glow" style="color: white; background-color: #2CC4ED; border-radius: 10px; width: 20%; padding: 10px; margin: 5px;" type="button">
-    <a href="contact" >Retour a l'accueil</a>
+    <a href="/ContactNew" >Retour a l'accueil</a>
 </button>
 
             </div>
