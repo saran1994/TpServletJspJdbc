@@ -61,7 +61,7 @@
                             %>
                         </table>
                     </div>
-                    <button  >
+                    <button type="button" style="color: white; background-color: #2CC4ED; border-radius: 10px; width: 20%; padding: 10px; margin: 5px;">
                         <a href="add-contact.jsp">Ajouter un nouveau contact</a>
                     </button>
                 </div>

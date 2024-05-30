@@ -19,8 +19,8 @@
         <div class="container heading-grid">
             <div class="heading-wrap">
                 <h2>Bienvenue, Admin</h2>
-                <button class="btn-primary">
-    <a href="contact" class="btn-link">Retour a l'accueil</a>
+                <button class="glow" style="color: white; background-color: #2CC4ED; border-radius: 10px; width: 20%; padding: 10px; margin: 5px;" type="button">
+    <a href="contact" >Retour a l'accueil</a>
 </button>
 
             </div>
@@ -31,8 +31,8 @@
         <div class="container">
             <div class="form-box">
                 <div class="form-input">
-                    <button class="btn" >
-    <a href="contact?action=LIST" class="btn-link">Voir liste contact</a>
+      <button type="button" style="color: white; background-color: #2CC4ED; border-radius: 10px; width: 20%; padding: 10px; margin: 5px;">
+    <a href="contact?action=LIST" >Voir liste contact</a>
 </button>
 
                    
